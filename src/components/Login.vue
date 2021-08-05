@@ -37,7 +37,7 @@ export default {
      console.warn(result)
         }
     },
-     mounted()
+    mounted()
     {
       let user= localStorage.getItem("user-info");
       if(user)

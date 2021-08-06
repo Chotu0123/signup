@@ -1,4 +1,5 @@
 <template>
+<div>
 <img class="logo" src="../assets/logo1.png"/>
     <h1>Login Page</h1>
     <div class="login">
@@ -9,6 +10,7 @@
         <p>
           <router-link to="/sign-up">Sign-Up</router-link>
         </p>
+    </div>
     </div>
 </template>
 <script>

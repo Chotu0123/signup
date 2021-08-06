@@ -1,6 +1,8 @@
 <template>
+<div>
 <img class="logo" src="../assets/S1.jpg"/>
 <h1>Hello, How are you , Welcome on my Home Page</h1> 
+</div>
 </template>
 <script>
 export default{
@@ -18,6 +20,10 @@ export default{
 
 <style>
 .logo{
-    width: 400px;
+    width: 1500px;
+    height: 400px;
+    align-items: center;
+    padding-right: auto;
+    box-sizing: border-box;
 }
 </style>

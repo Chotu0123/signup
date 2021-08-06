@@ -1,4 +1,5 @@
 <template>
+<div>
 <img class="logo" src="../assets/logo1.png"/>
     <h1>Sign Up</h1>
     <div class="register">
@@ -10,6 +11,7 @@
           <router-link to="/login">Login</router-link>
         </p>
     </div>
+</div>
 </template>
 <script>
 import axios from 'axios'

@@ -1,6 +1,6 @@
 <template>
 <div>
-<img class="logo" src="../assets/S1.jpg"/>
+<img class="bgimg" src="../assets/S1.jpg"/>
 <h1>Hello, How are you , Welcome on my Home Page</h1> 
 </div>
 </template>
@@ -19,7 +19,7 @@ export default{
 </script>
 
 <style>
-.logo{
+.bgimg{
     width: 1500px;
     height: 400px;
     align-items: center;
